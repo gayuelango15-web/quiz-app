@@ -27,3 +27,6 @@ A responsive Quiz Application built using HTML, CSS, and JavaScript.
 - Local storage for high scores
 - Randomized questions
 - Difficulty levels
+
+## Author
+Gayathri E
